@@ -1,1 +1,2 @@
-Welcome to my personal GitHub repository. I am an MSc Quantitative Finance student, and here I share projects focused on finance and machine learning applications.
+AI Analyst Agent
+Built an AI agent using Google Gemini to automate document and email analysis workflows. Reads local and web files, answers user queries contextually, summarises content into actionable insights, and drafts professional email responses. Designed for productivity enhancement in research and investment banking workflows.
