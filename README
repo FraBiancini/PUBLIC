@@ -1,1 +1,14 @@
-Welcome to my personal GitHub repository. I am an MSc Quantitative Finance student, and here I share projects focused on finance and machine learning applications.
+# Local Volatility Model – Group 12
+
+## 📌 Project Overview
+
+This repository contains the implementation, calibration, and pricing results of a **Local Volatility Model (LVM)** as part of the Mathematical Finance II coursework for Group 12 alongside Davide Matteo Bottinelli (@FitBonsai) and Salvatore Ippolito (@salvatoreippolito). 
+
+The project focuses on:
+
+- Calibration of local volatility surfaces from market data
+- Pricing of European options via Dupire PDE and Monte Carlo simulation
+- Pricing of forward starting options
+- Smile and skew analysis
+- Calibration challenges for ill-behaved assets
+- Pricing exotic derivatives on FX with Local Volatility vs Black-Scholes models
