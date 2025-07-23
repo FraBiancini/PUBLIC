@@ -1,2 +1,1 @@
-AI Analyst Agent
-Built an AI agent using Google Gemini to automate document and email analysis workflows. Reads local and web files, answers user queries contextually, summarises content into actionable insights, and drafts professional email responses. Designed for productivity enhancement in research and investment banking workflows.
+Built an AI agent that, given a company name or CIK code, automates the retrieval and analysis of SEC filings. It summarizes financial performance, risks, and key insights into a brief, clear report. Designed to streamline market research and investment decision workflows.
