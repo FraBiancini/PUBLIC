@@ -1,1 +1,2 @@
-Welcome to my personal GitHub repository. I am an MSc Quantitative Finance student, and here I share projects focused on finance and machine learning applications.
+ Calibrated a volatility surface using Power Scaling ATS, priced structured certificate and designed delta-vega
+hedging strategies using ATM straddles and spot positions to neutralize risk exposures.
