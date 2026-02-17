@@ -1,1 +1,2 @@
-Welcome to my personal GitHub repository. I am an MSc Quantitative Finance student, and here I share projects focused on finance and machine learning applications.
+Calibrated a Lévy NIG-based HJM model via least-squares to French electricity options (2027-2029 maturities)
+and priced an exotic derivative on the maximum of two forwards.
