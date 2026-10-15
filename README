@@ -1,0 +1,3 @@
+Built optimization-based allocation frameworks including Minimum Variance, Maximum Sharpe
+(nominal/robust/PCA), Black-Litterman with views, and Minimum CVaR portfolios. Compared risk-adjusted
+performance across strategies.
