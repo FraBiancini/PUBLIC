@@ -1,0 +1,1 @@
+This project consists in a ABC algorithm implemented in C++ with MPI parallelization
